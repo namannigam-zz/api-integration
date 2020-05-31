@@ -1,0 +1,23 @@
+
+[
++src/main/java/suite/HttpRequestWrapper.java,0/7/07b404c193a3a663fe1c94f044d017b3c80976e0
+U
+%src/main/java/suite/ContentState.java,5/b/5bc38fb3526384001486182b5ec4bd5f823c8979
+V
+&src/main/java/suite/GraphResponse.java,a/6/a6346e19dd15a22d9b5348e8d1d6b3580e580d9c
+W
+'src/main/java/suite/ContentRequest.java,3/9/397fe63d159d8116a760e949b7c191741e4721b9
+a
+1src/test/java/extension/SimpleProxyExtension.java,c/f/cf0bbcd3ae4692eabf98b04f9ebff899f4780bf5
+`
+0src/main/java/suite/GetContentStateResponse.java,e/6/e6b8179170ab418afab7ee162844e97767b24ff8
+P
+ src/test/java/base/BaseTest.java,b/7/b7db9501819294794071ed8490857b8ada13054d
+[
++src/test/java/suite/UserFeedsTestSuite.java,7/0/70d309fa56e077690104852eb819f33e5cf9269c
+X
+(src/test/java/suite/GetInterestTest.java,8/b/8b9f8da9ed8799a72d817624ce9a780d36da7dbf
+7
+pom.xml,4/4/442292b8a7efeabbe4cc176709b833b1792140ec
+\
+,src/test/java/suite/GetContentStateTest.java,d/2/d25a6c1cd5daa1b62ff281f4645e49a95eb4c3a4

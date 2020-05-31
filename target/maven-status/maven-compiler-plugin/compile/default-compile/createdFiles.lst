@@ -1,0 +1,5 @@
+suite/GraphResponse.class
+suite/ContentRequest.class
+suite/ContentState.class
+suite/HttpRequestWrapper.class
+suite/GetContentStateResponse.class
